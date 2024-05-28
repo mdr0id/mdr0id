@@ -58,6 +58,3 @@ I am a Computer Scientist currently working in the blockchain space.
 ![image](https://img.shields.io/badge/ACM-0085CA.svg?style=for-the-badge&logo=ACM&logoColor=white)
 ![image](https://img.shields.io/badge/Adafruit-000000.svg?style=for-the-badge&logo=Adafruit&logoColor=white)
 ![image](https://img.shields.io/badge/Linux%20Foundation-003778.svg?style=for-the-badge&logo=Linux-Foundation&logoColor=white)
-
-### Currently Learning
-![image](https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)
