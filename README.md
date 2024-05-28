@@ -25,6 +25,7 @@ I am a Computer Scientist currently working in the blockchain space.
 ## Crypto
 ![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![image](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000)
+![image](https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)
 
 ## Languages
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
