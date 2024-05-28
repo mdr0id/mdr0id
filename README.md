@@ -49,12 +49,11 @@ I am a Computer Scientist currently working in the blockchain space.
 ![image](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 ![image](https://img.shields.io/badge/Arm-0091BD.svg?style=for-the-badge&logo=Arm&logoColor=white)
 ![image](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![image](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## Docs
 ![image](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
-![image](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-![image](https://img.shields.io/badge/Linux%20Foundation-003778.svg?style=for-the-badge&logo=Linux-Foundation&logoColor=white)
 
 ## Interests
 ![image](https://img.shields.io/badge/ACM-0085CA.svg?style=for-the-badge&logo=ACM&logoColor=white)
