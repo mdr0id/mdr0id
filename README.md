@@ -1,6 +1,8 @@
 ![Header](./img/github-header-image.png)
 
-I am a Computer Scientist currently working in the blockchain space.
+I am a Computer Scientist currently working in the Blockchain space. Much of my work has existed in private repos, on several projects, due to security risks. Some of this work consisted of RF4CE protocols and tooling specific to certain companies. The other none embedded projects were responsible for signing processes and other critical infra that was not ideal for migrating public at the time. Some of this work I was able to extract within the Zcash repo to allow the community to build in parallel with us.
+
+I believe in many of the technologies used in Blockchain today(ZK, Rollups, DeFi, etc.) and really hope to build thriving communities into the future. Some of my favorite experiences have existed in hacking on random projects that I had no idea the user's were into. It was amazing to share knowledge and build tooling that allowed people to create entire communities. I hope to continue this journey and enjoy sharing my experience with anyone from a season dev to people just getting into coding. 
 
 # Skills
 
