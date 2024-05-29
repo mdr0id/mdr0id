@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./img/github-header-image.png)
 
 I am a Computer Scientist currently working in the blockchain space.
 
